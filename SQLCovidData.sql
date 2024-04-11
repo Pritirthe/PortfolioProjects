@@ -1,4 +1,9 @@
+/*
+Covid 19 Data Exploration 
 
+Skills used: Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
 
 -- Full Table view of Covid Cases and Death 
 Select *
