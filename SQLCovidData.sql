@@ -3,6 +3,14 @@ Covid 19 Data Exploration
 
 Skills used: Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+--(This SQL portfolio showcases a comprehensive data exploration of COVID-19 statistics, leveraging a range of SQL skills 
+--including Joins, Common Table Expressions (CTEs), Temp Tables, Window Functions, Aggregate Functions, Creating Views, 
+--and Converting Data Types. The portfolio delves into various aspects of the COVID-19 pandemic, analyzing data on cases, 
+--deaths, vaccinations, and demographic factors across different locations and periods. Through a series of meticulously 
+--crafted queries, it presents insights into infection rates, mortality rates, vaccination coverage, demographic influences, 
+--and more. By employing advanced SQL techniques, the portfolio aims to provide valuable insights for understanding the dynamics 
+--of the pandemic and informing data-driven decision-making processes.)
+
 */
 
 -- Full Table view of Covid Cases and Death 
@@ -505,11 +513,5 @@ FROM
     SQLPOrtfolio..CovidCasesDeath dea
 JOIN
     SQLPOrtfolio..CovidVaccinatedMortalityRate vac ON dea.location = vac.location AND dea.date = vac.date;
---(This SQL portfolio showcases a comprehensive data exploration of COVID-19 statistics, leveraging a range of SQL skills 
---including Joins, Common Table Expressions (CTEs), Temp Tables, Window Functions, Aggregate Functions, Creating Views, 
---and Converting Data Types. The portfolio delves into various aspects of the COVID-19 pandemic, analyzing data on cases, 
---deaths, vaccinations, and demographic factors across different locations and time periods. Through a series of meticulously 
---crafted queries, it presents insights into infection rates, mortality rates, vaccination coverage, demographic influences, 
---and more. By employing advanced SQL techniques, the portfolio aims to provide valuable insights for understanding the dynamics 
---of the pandemic and informing data-driven decision-making processes.)
+
 
