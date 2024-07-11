@@ -24,7 +24,7 @@ This repository contains various data science and machine learning projects. Bel
 - **Key Findings**: Detailed insights into the spread, trends, and impact of COVID-19.
 - **Benefits**: Helps understand the progression and impact of the pandemic through data.
 - **View the Notebook**:
-  - [GitHub Link]((https://github.com/Pritirthe/PortfolioProjects/blob/main/SQLCovidData.sql))
+  - [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/SQLCovidData.sql)
 
 ## Contact
 
