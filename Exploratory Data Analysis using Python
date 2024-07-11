@@ -1,5 +1,100 @@
-## Exploratory Data Analysis using Python
+# Instagram Data Analysis and Prediction
 
-[View Notebook on nbviewer](https://nbviewer.org/github/Pritirthe/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis%20using%20Python.ipynb)
+This project involves analyzing Instagram post data to understand reach and engagement and build a machine-learning model to predict the reach of future posts.
+
+## View the Analysis
+
+You can view the complete analysis and visualizations in the Jupyter Notebook:
+
+- nbviewer Link: [Exploratory Data Analysis using Python on nbviewer](https://nbviewer.org/github/Pritirthe/PortfolioProjects/blob/main/Exploratory%20Data%20Analysis%20using%20Python.ipynb)
+
+## Summary
+
+This project includes:
+- Analyzing the distribution of impressions from various sources.
+- Visualizing the most frequently used words in captions and hashtags.
+- Understanding the relationship between engagement metrics and reach.
+- Building a machine learning model to predict the reach of future posts.
+
+## Key Findings
+- **Sources of Impressions**: Followers and hashtags are the major sources.
+- **Engagement Metrics**: Likes significantly boost reach, comments have little effect, shares and saves have moderate effects.
+- **Conversion Rate**: The conversion rate is 41%, indicating a good engagement level.
+
+## Benefits
+- **Content Strategy**: Helps content creators optimize their posts for better reach and engagement.
+- **Predictive Modeling**: Provides a tool for predicting the reach of future posts based on engagement metrics.
+
+For a detailed analysis and visualizations, please refer to the Jupyter Notebook linked above.
+
 
 This notebook contains exploratory data analysis using Python, showcasing various techniques and visualizations.
+This project aims to analyze Instagram data to understand the reach and engagement of posts, and to build a machine-learning model to predict the reach of future posts. 
+The data includes metrics such as impressions, likes, comments, shares, saves, profile visits, and follows for various Instagram posts. Through exploratory data analysis
+and visualization, we uncover insights about the sources of impressions and the effectiveness of different types of content.
+
+Summary and Achievements
+Purpose: This project helps content creators understand the factors influencing their Instagram reach and engagement. By analyzing historical data, creators can optimize their content strategy.
+Key Findings: The major sources of impressions are from followers and hashtags. Likes significantly boost reach, while comments have little effect. The explore section contributes minimally to overall reach.
+Model Utility: The reach prediction model provides a practical tool for estimating the potential reach of future posts, allowing creators to make data-driven decisions.
+Benefit: Content creators and social media marketers can use these insights to improve their Instagram strategy, enhance engagement, and predict the performance of their posts.
+
+Insights and Findings
+Data Summary
+Dataset: Contains 119 entries with 13 columns, including impressions from various sources, engagement metrics, captions, and hashtags.
+Null Values: No null values are present in the dataset.
+Impressions Analysis
+Distribution of Impressions From Home:
+
+The impressions from the home section indicate how well the posts reach followers. The distribution shows that reaching all followers daily is challenging.
+Visualization: Distribution plot of impressions from the home section.
+Distribution of Impressions From Hashtags:
+
+Hashtags are used to categorize posts and reach a broader audience. The distribution shows that while hashtags can reach new users, not all posts benefit equally.
+Visualization: Distribution plot of impressions from hashtags.
+Distribution of Impressions From Explore:
+
+The explore section functions as Instagram's recommendation system. The impressions from explore are relatively low, suggesting that Instagram does not frequently recommend the posts.
+Visualization: Distribution plot of impressions from explore.
+Percentage of Impressions From Various Sources:
+
+A donut plot shows that approximately 50% of impressions come from followers (home), 38.1% from hashtags, 9.14% from explore, and 3.01% from other sources.
+Visualization: Donut plot showing the percentage of impressions from various sources.
+Content Analysis
+Wordcloud of Captions:
+
+A word cloud visualizes the most frequently used words in the captions, helping to understand the content focus.
+Visualization: Wordcloud of caption text.
+Wordcloud of Hashtags:
+
+A word cloud visualizes the most frequently used hashtags, providing insights into the topics and categories emphasized.
+Visualization: Wordcloud of hashtags.
+Relationship Analysis
+Likes and Impressions:
+
+A linear relationship between likes and impressions suggests that more likes generally lead to higher reach.
+Visualization: Scatter plot with a trendline showing the relationship between likes and impressions.
+Comments and Impressions:
+
+The number of comments does not significantly impact the reach of posts.
+Visualization: Scatter plot with a trendline showing the relationship between comments and impressions.
+Shares and Impressions:
+
+More shares correlate with higher reach, but the effect is not as strong as likes.
+Visualization: Scatter plot with a trendline showing the relationship between shares and impressions.
+Saves and Impressions:
+
+Saves positively impact reach, but the effect is moderate compared to likes.
+Visualization: Scatter plot with a trendline showing the relationship between saves and impressions.
+Conversion Rate
+Conversion Rate: The conversion rate is calculated as (Follows/Profile Visits) * 100, resulting in a 41% conversion rate, which is considered high.
+Visualization: Scatter plot with a trendline showing the relationship between profile visits and followers gained.
+Reach Prediction Model
+Model Training:
+
+A PassiveAggressiveRegressor model is trained to predict the reach of posts based on engagement metrics such as likes, saves, comments, shares, profile visits, and follows.
+Model Score: The model achieves a score of 0.609 on the test set.
+Reach Prediction:
+
+The model can predict the reach of a post given its engagement metrics. For example, given 282 likes, 233 saves, 4 comments, 9 shares, 165 profile visits, and 54 follows, the predicted reach is approximately 8554 impressions.
+Visualization: Scatter plot showing the predicted reach of Instagram posts.
