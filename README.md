@@ -26,12 +26,7 @@ This repository contains various data science and machine learning projects. Bel
 - **View the Notebook**:
   - [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/SQLCovidData.sql)
 
-### 4. [Superstore Retail Analysis Dashboard](Superstore_Retail_Analysis.md)
-- **Overview**: Provides insights and analysis of retail data from the Superstore dataset.
-- **Key Features**: Interactive visualizations of sales trends, profitability metrics, regional analysis, and product performance.
-- **Benefits**: Helps in business optimization, decision support, and operational efficiency.
-- **Access the Dashboard**:
-  - [Tableau Public Link](https://public.tableau.com/app/profile/priti8667/viz/NewTry_16048596288000/Dashboard1)
+
 
 ## Contact
 
