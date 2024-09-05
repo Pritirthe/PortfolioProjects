@@ -41,7 +41,6 @@ This repository contains various data science and machine learning projects. Bel
 - Operation Fistula: Explores data related to healthcare efforts aimed at addressing fistula conditions globally.
 - Gender Equality: Analyzes data related to gender disparity and its societal impacts.
 - Coal Production in India: Insights into coal production trends and its economic significance in India.
-- AIDS-related Deaths and HIV Infections Differ in Male and Female: A public health dashboard showing the differences in AIDS-related outcomes between genders.
 - **Benefits**: These dashboards enhance understanding of complex datasets by presenting clear, actionable insights that are relevant to business, public health, and societal issues.
 - **View the Projects**:
 [Tableau Public Link](https://public.tableau.com/app/profile/priti8667/vizzes)
