@@ -31,7 +31,7 @@ This repository contains various data science and machine learning projects. Bel
 - **Key Techniques**: Pivot tables, dynamic charts, slicers, Excel formulas, and dashboard design.
 - **Benefits**: Enhances decision-making, applicable across industries, and demonstrates Excel proficiency.
 - **View the Notebook**:
-  - [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/Order-Finance-Customer.xlsx)
+  - ([GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/Order-Finance-Customer%20Service%20PIvot%20and%20Dashboard.xlsx))
 
 
 ## Contact
