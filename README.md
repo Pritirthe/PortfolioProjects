@@ -34,16 +34,16 @@ This repository contains various data science and machine learning projects. Bel
   - ([GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/Order-Finance-Customer%20Service%20PIvot%20and%20Dashboard.xlsx))
 
 ### 5. Tableau Data Visualizations
--**Overview**: A diverse collection of Tableau dashboards that explore various datasets across retail, social issues, and public health. These visualizations highlight key trends and insights, offering valuable information through interactive and engaging dashboards.
--**Key Dashboards**:
--Superstore Retail Analysis: A detailed analysis of sales, profit, and customer behaviour in a retail setting.
--Divergent Opinion on Transatlantic Alliance: Visualizes public opinions on the political relationship between Europe and North America.
--Operation Fistula: Explores data related to healthcare efforts aimed at addressing fistula conditions globally.
--Gender Equality: Analyzes data related to gender disparity and its societal impacts.
--Coal Production in India: Insights into coal production trends and its economic significance in India.
--AIDS-related Deaths and HIV Infections Differ in Male and Female: A public health dashboard showing the differences in AIDS-related outcomes between genders.
--**Benefits**: These dashboards enhance understanding of complex datasets by presenting clear, actionable insights that are relevant to business, public health, and societal issues.
--**View the Projects**:
+- **Overview**: A diverse collection of Tableau dashboards that explore various datasets across retail, social issues, and public health. These visualizations highlight key trends and insights, offering valuable information through interactive and engaging dashboards.
+- **Key Dashboards**:
+- Superstore Retail Analysis: A detailed analysis of sales, profit, and customer behaviour in a retail setting.
+- Divergent Opinion on Transatlantic Alliance: Visualizes public opinions on the political relationship between Europe and North America.
+- Operation Fistula: Explores data related to healthcare efforts aimed at addressing fistula conditions globally.
+- Gender Equality: Analyzes data related to gender disparity and its societal impacts.
+- Coal Production in India: Insights into coal production trends and its economic significance in India.
+- AIDS-related Deaths and HIV Infections Differ in Male and Female: A public health dashboard showing the differences in AIDS-related outcomes between genders.
+- **Benefits**: These dashboards enhance understanding of complex datasets by presenting clear, actionable insights that are relevant to business, public health, and societal issues.
+- **View the Projects**:
 [Tableau Public Link](https://public.tableau.com/app/profile/priti8667/vizzes)
 
 ## Contact
