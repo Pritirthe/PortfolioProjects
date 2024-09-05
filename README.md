@@ -26,7 +26,7 @@ This repository contains various data science and machine learning projects. Bel
 - **View the Notebook**:
   - [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/SQLCovidData.sql)
 
-### 4. [Order Management  | Finance | Customer Service Dashboard on Excel]
+### 4. Order Management  | Finance | Customer Service Dashboard on Excel
 - **Overview**: A dynamic Excel dashboard project showcasing simple pivot tables, interactive charts, and key metrics for Order Management, Finance, and Customer Service sectors.
 - **Key Techniques**: Pivot tables, dynamic charts, slicers, Excel formulas, and dashboard design.
 - **Benefits**: Enhances decision-making, applicable across industries, and demonstrates Excel proficiency.
