@@ -46,10 +46,10 @@ This repository contains various data science and machine learning projects. Bel
 [Tableau Public Link](https://public.tableau.com/app/profile/priti8667/vizzes)
 
 ### 6. KPI-Driven Sales Performance Dashboard
-**Overview:** A dynamic Power BI dashboard focused on analyzing key sales and profitability metrics. This dashboard provides a comprehensive view of total transactions, revenue, profit, profit margin, and return rates. It also offers in-depth city-wise analysis for top products and tracks revenue trends on a weekly and regional basis.
-**Key Findings:** Insights into overall sales performance, product-level profitability, and regional transaction patterns.
-**Benefits:** Facilitates data-driven decision-making by providing clear visualizations that highlight key business metrics and trends.
-**View the Dashboard:**
+- **Overview:** A dynamic Power BI dashboard focused on analyzing key sales and profitability metrics. This dashboard provides a comprehensive view of total transactions, revenue, profit, profit margin, and return rates. It also offers in-depth city-wise analysis for top products and tracks revenue trends on a weekly and regional basis.
+- **Key Findings:** Insights into overall sales performance, product-level profitability, and regional transaction patterns.
+- **Benefits:** Facilitates data-driven decision-making by providing clear visualizations that highlight key business metrics and trends.
+- **View the Dashboard:**
 [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/KPI-Driven%20Sales%20Performance%20Dashboard.pbit)
 
 ## Contact
