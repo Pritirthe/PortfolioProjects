@@ -6,7 +6,7 @@ This repository contains various data science and machine learning projects. Bel
 
 ### 1. Revenue insights in hospitality Domain (dashboard)
 - **Overview:** This Power BI dashboard offers comprehensive insights into the hostel booking industry, showcasing key metrics like revenue, occupancy, ADR, RevPAR, and realization. It provides granular performance analysis by city, room category, and weekday vs. weekend trends.
-- **Key Findings:** i)Revenue and ratings comparison across cities reveal top-performing locations. ii)Weekday vs. weekend trends highlight variations in RevPAR, ADR, and occupancy. iii)Insights into cancellations, no-show rates, and successful bookings inform customer behavior. iv)Room category analysis (business vs. luxury) identifies revenue contributions.
+- **Key Findings:** i)Revenue and ratings comparison across cities reveal top-performing locations. ii)Weekday vs. weekend trends highlight variations in RevPAR, ADR, and occupancy. iii)Insights into cancellations, no-show rates, and successful bookings inform customer behavior. iv)Room category analysis identifies revenue contributions.
 - **Benefits:** 1)Supports dynamic pricing strategies based on demand patterns. ii)Identifies high-performing areas for targeted marketing. iii)Enables data-driven decisions to optimize capacity and maximize revenue.
 - **View the Dashboard:**
 [GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)
