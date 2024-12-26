@@ -9,7 +9,7 @@ This repository contains various data science and machine learning projects. Bel
 - **Key Findings:** i)Revenue and ratings comparison across cities reveal top-performing locations. ii)Weekday vs. weekend trends highlight variations in RevPAR, ADR, and occupancy. iii)Insights into cancellations, no-show rates, and successful bookings inform customer behavior. iv)Room category analysis (business vs. luxury) identifies revenue contributions.
 - **Benefits:** 1)Supports dynamic pricing strategies based on demand patterns. ii)Identifies high-performing areas for targeted marketing. iii)Enables data-driven decisions to optimize capacity and maximize revenue.
 - **View the Dashboard:**
-[GitHub Link]((https://github.com/Pritirthe/PortfolioProjects/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix))
+[GitHub Link](https://github.com/Pritirthe/PortfolioProjects/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix)
 
 ### 2. KPI-Driven Sales Performance Dashboard
 - **Overview:** A dynamic Power BI dashboard focused on analyzing key sales and profitability metrics. This dashboard provides a comprehensive view of total transactions, revenue, profit, profit margin, and return rates. It also offers in-depth city-wise analysis for top products and tracks revenue trends on a weekly and regional basis.
